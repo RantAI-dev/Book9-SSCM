@@ -175,7 +175,7 @@ toc: true
 </center>
 
 <div class="row flex-xl-wrap pb-4">
-    <div class="col-md-4 col-12 py-2">
+    <div class="col-md-6 col-12 py-2">
         <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
             <div class="card-body p-0 content">
                 <h5 class="fs-5 fw-semibold card-title mb-1">Dr. Berty Argiyantari</h5>
@@ -185,7 +185,7 @@ toc: true
             </div>
         </div>
     </div>
-    <div class="col-md-4 col-12 py-2">
+    <div class="col-md-6 col-12 py-2">
         <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
             <div class="card-body p-0 content">
                 <h5 class="fs-5 fw-semibold card-title mb-1">Dr. Risman Adnan</h5>
@@ -195,7 +195,20 @@ toc: true
             </div>
         </div>
     </div>
-    <div class="col-md-4 col-12 py-2">
+</div>
+
+<div class="row flex-xl-wrap pb-4">
+    <div class="col-md-6 col-12 py-2">
+        <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
+            <div class="card-body p-0 content">
+                <h5 class="fs-5 fw-semibold card-title mb-1">Nelson Lianto</h5>
+                <p class="card-text">
+                    Nelson Lianto is an accomplished Supply Chain, Logistics, and Distribution Professional with over 25 years of experience across diverse industries, including FMCG, pharmaceuticals, and logistics. He holds a Bachelor's degree in Industrial Engineering from Trisakti University and a CISCP certification, which complements his extensive expertise in transforming end-to-end supply chain and logistics processes to remain agile and relevant in today's dynamic market conditions. Since July 2017, Nelson has been serving as the Supply Chain General Manager at Kalbe, where he focuses on optimizing distribution strategies and enhancing operational efficiency. Previously, he was the National Logistics & Distribution Senior Manager at Indomarco Adi Prima from 2003 to 2017. His significant achievements include improving service levels, reducing transportation costs, and spearheading supply chain digitalization initiatives. Nelson’s skills encompass a wide array of areas, from transportation and inventory management to demand planning and warehouse optimization, making him a valuable asset in driving sustainable supply chain success.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-12 py-2">
         <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
             <div class="card-body p-0 content">
                 <h5 class="fs-5 fw-semibold card-title mb-1">Josephine Kusnadi</h5>
@@ -208,7 +221,6 @@ toc: true
 </div>
 
 <style>
-    /* Additional styles for the Collaboration and Authors sections */
     .card-text {
         font-size: 0.9rem;
         text-align: justify;
@@ -224,8 +236,6 @@ toc: true
         transform: translateY(-10px);
     }
 </style>
-
-<center>
 
 ## 🚀 About RantAI
 
