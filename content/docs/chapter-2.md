@@ -3,8 +3,8 @@ weight: 600
 title: "Chapter 2"
 description: "Core Technologies Powering the Smart Supply Chain"
 icon: "article"
-date: "2024-11-17T17:39:08.645667+07:00"
-lastmod: "2024-11-17T17:39:08.645667+07:00"
+date: "2024-11-21T08:50:00.553379+07:00"
+lastmod: "2024-11-21T08:50:00.553379+07:00"
 katex: true
 draft: false
 toc: true
@@ -50,7 +50,6 @@ The integration of IoT with existing supply chain management (SCM) systems is es
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-kJMIQOVL8pIwiA2XZrJ5-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key Capabilities of IoT Integration</p>
-        <p>Key Capabilities of IoT Integration</p>
     </div>
 </div>
 
@@ -131,7 +130,6 @@ The impact of Generative AI on supply chain management is profound, as it allows
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-CS1aghEcWkvUmwgYlK41-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Sample Use Cases of AI Innovations in SCM</p>
-        <p>Sample Use Cases of AI Innovations in SCM</p>
     </div>
 </div>
 
@@ -148,7 +146,6 @@ Blockchain technology introduces a decentralized, secure, and transparent method
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-WIPw4JMXqbBAWhTotAlD-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Blockchain Technology</p>
-        <p>Blockchain Technology</p>
     </div>
 </div>
 
@@ -180,7 +177,6 @@ One of the most transformative innovations in blockchain is the use of smart con
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-7aQKJIUrbUQJLgRfQ817-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Blockchain Innovations - Smart Contract</p>
-        <p>Blockchain Innovations - Smart Contract</p>
     </div>
 </div>
 
@@ -192,7 +188,6 @@ Smart contracts operate through simple “if-then” logic: if a specified condi
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-71cDKBjTCbQJIWYkH0Q0-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Utilization of Smart Contracts</p>
-        <p>Utilization of Smart Contracts</p>
     </div>
 </div>
 
@@ -263,7 +258,6 @@ The integration of RPA and BPA technologies with advanced supply chain managemen
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-ZznH767PsC5TVYiBBuC8-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> RPA vs BPA</p>
-        <p>RPA vs BPA</p>
     </div>
 </div>
 
@@ -326,7 +320,6 @@ Low-code and no-code platforms have democratized access to RPA and BPA by allowi
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-PimFIOMiN3ZUv3kVPcud-v1.png" >}}
         <p><span class="fw-bold ">Figure 7:</span> Integration of RPA and BPA</p>
-        <p>Integration of RPA and BPA</p>
     </div>
 </div>
 
@@ -379,7 +372,6 @@ Cloud computing has become an essential foundation for modern supply chains, ena
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-Zfpkwk5tHgzn6MBdBO3w-v1.png" >}}
         <p><span class="fw-bold ">Figure 8:</span> Various Cloud and Hybrid Solutions</p>
-        <p>Various Cloud and Hybrid Solutions</p>
     </div>
 </div>
 

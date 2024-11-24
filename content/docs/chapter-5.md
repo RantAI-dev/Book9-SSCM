@@ -3,8 +3,8 @@ weight: 900
 title: "Chapter 5"
 description: "Sustainable and Green Supply Chains"
 icon: "article"
-date: "2024-11-17T17:39:08.741211+07:00"
-lastmod: "2024-11-17T17:39:08.741211+07:00"
+date: "2024-11-21T08:50:00.677481+07:00"
+lastmod: "2024-11-21T08:50:00.677481+07:00"
 katex: true
 draft: false
 toc: true
@@ -30,7 +30,6 @@ However, designing eco-friendly supply chains comes with significant challenges.
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-Gpp9AFSnIs0BvwG4ybQO-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key Components of Eco-Friendly Supply Chain</p>
-        <p>Key Components of Eco-Friendly Supply Chain</p>
     </div>
 </div>
 
@@ -74,8 +73,7 @@ Sustainable procurement is the practice of sourcing goods and services in a way 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-hmzBs7VTxZ7oa7NZSFga-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span>Sustainable Procurement Components</p>
-        <p></p>
+        <p><span class="fw-bold ">Figure 2:</span> </p>
     </div>
 </div>
 
@@ -128,7 +126,6 @@ The scope of carbon emissions in supply chains is categorized into three primary
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-AymOngYaAAbuGTDJkFBM-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Overview of Corporate Carbon Emissions</p>
-        <p>Overview of Corporate Carbon Emissions</p>
     </div>
 </div>
 
@@ -181,7 +178,6 @@ Academically, circular supply chains intersect with fields like environmental sc
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-yVekEAbYJwrebiSgxzik-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> High-Level Overview of Circular Supply Chains</p>
-        <p>High-Level Overview of Circular Supply Chains</p>
     </div>
 </div>
 

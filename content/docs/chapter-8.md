@@ -3,8 +3,8 @@ weight: 1200
 title: "Chapter 8"
 description: "'Cybersecurity and Risk Management '"
 icon: "article"
-date: "2024-11-17T17:39:08.834472+07:00"
-lastmod: "2024-11-17T17:39:08.834472+07:00"
+date: "2024-11-21T08:50:00.786519+07:00"
+lastmod: "2024-11-21T08:50:00.786519+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ As supply chains become increasingly digital, interconnected, and data-driven, c
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-jX76hWGK6tuwjyHYDCE3-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Cybersecurity risks in implementation of digital supply chains.</p>
-        <p>Cybersecurity risks in implementation of digital supply chains.</p>
     </div>
 </div>
 
@@ -46,7 +45,6 @@ High-profile cyberattacks on companies like Maersk underscore the importance of 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-JHz5KptgCjAzd6PZ4vkF-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Risks, Best Practices, Innovations and Case Study of Cybersecurity in Digital Supply Chains.</p>
-        <p>Risks, Best Practices, Innovations and Case Study of Cybersecurity in Digital Supply Chains.</p>
     </div>
 </div>
 
@@ -83,7 +81,6 @@ Blockchain technology is transforming the landscape of supply chain data securit
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-nACduciGMdBBezUgazzn-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Potential benefits of Blockchain in Supply Chains.</p>
-        <p>Potential benefits of Blockchain in Supply Chains.</p>
     </div>
 </div>
 
@@ -103,7 +100,6 @@ Industries like pharmaceuticals and food safety, where product authenticity, saf
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-sJiLGkuT2eMl5WLapvmU-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Benefits, Features, Techniques, Innovations, Applications of Blockchain.</p>
-        <p>Benefits, Features, Techniques, Innovations, Applications of Blockchain.</p>
     </div>
 </div>
 
@@ -140,7 +136,6 @@ Predictive risk analysis has become a cornerstone in modern supply chain managem
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-XCORRd6YEqUAKb3Jrxip-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Scopes and Complexities of Predictive Risk Analysis.</p>
-        <p>Scopes and Complexities of Predictive Risk Analysis.</p>
     </div>
 </div>
 
@@ -156,7 +151,6 @@ From an academic standpoint, predictive risk analysis draws upon disciplines suc
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-oSQI3PpZmsAHslivrtrR-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Implementation process of predictive risk analysis in Supply Chains.</p>
-        <p>Implementation process of predictive risk analysis in Supply Chains.</p>
     </div>
 </div>
 
@@ -197,7 +191,6 @@ Business Continuity Planning (BCP) has become essential for companies operating 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-tUmaK0UJgjdw1zLNnneS-v1.png" >}}
         <p><span class="fw-bold ">Figure 7:</span> Strategy to enhance supply chain resilience.</p>
-        <p>Strategy to enhance supply chain resilience.</p>
     </div>
 </div>
 
@@ -213,7 +206,6 @@ Academically, BCP for supply chains integrates principles from risk management, 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-sOl5uXquHerLnxQlHgiP-v1.png" >}}
         <p><span class="fw-bold ">Figure 8:</span> Scopes of Business Continuity Planning.</p>
-        <p>Scopes of Business Continuity Planning.</p>
     </div>
 </div>
 

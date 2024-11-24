@@ -3,8 +3,8 @@ weight: 1100
 title: "Chapter 7"
 description: "Human and Collaborative Factors in Smart Supply Chains"
 icon: "article"
-date: "2024-11-17T17:39:08.802832+07:00"
-lastmod: "2024-11-17T17:39:08.802832+07:00"
+date: "2024-11-21T08:50:00.747522+07:00"
+lastmod: "2024-11-21T08:50:00.747522+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ In an era defined by automation and artificial intelligence, human intelligence 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-ynWs67WWtfr5YvLTM31I-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Machine intelligence with human in the loop.</p>
-        <p>Machine intelligence with human in the loop.</p>
     </div>
 </div>
 
@@ -58,7 +57,6 @@ One of the most transformative innovations in the integration of human and machi
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-DL3ySJvgENKxhNwAOiHC-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Human challenges in handling automated supply chains.</p>
-        <p>Human challenges in handling automated supply chains.</p>
     </div>
 </div>
 
@@ -83,7 +81,6 @@ Cross-industry collaboration has become a fundamental strategy for building resi
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-OrA64IWCGFa9y4kyVltK-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Cross-industry collaboration strategy in supply chains.</p>
-        <p>Cross-industry collaboration strategy in supply chains.</p>
     </div>
 </div>
 
@@ -103,7 +100,6 @@ Cross-industry collaborations are prevalent across multiple sectors, where partn
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-NuIi9D3qX8y1XywrRJjJ-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Benefits and best practices on cross-industry collaborations in supply chain.</p>
-        <p>Benefits and best practices on cross-industry collaborations in supply chain.</p>
     </div>
 </div>
 
@@ -140,7 +136,6 @@ As digital transformation reshapes the supply chain landscape, training and upsk
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-Z5345dBSJkb29k0PX8v7-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Upskilling workforce is critical in smart supply chains.</p>
-        <p>Upskilling workforce is critical in smart supply chains.</p>
     </div>
 </div>
 
@@ -156,7 +151,6 @@ Academically, upskilling for AI-powered supply chains combines fields such as da
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-9jbihSTGRwJ269y5953e-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Scopes of workforce development for AI-powered supply chains.</p>
-        <p>Scopes of workforce development for AI-powered supply chains.</p>
     </div>
 </div>
 
@@ -197,7 +191,6 @@ In the rapidly evolving landscape of data-driven and highly automated supply cha
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-WjGKDWLapgpFb6tvAOuE-v1.png" >}}
         <p><span class="fw-bold ">Figure 7:</span> Key challenges in data-driven leadership.</p>
-        <p>Key challenges in data-driven leadership.</p>
     </div>
 </div>
 
@@ -213,7 +206,6 @@ Academically, the role of data-driven leadership integrates principles from mana
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-30A2jHKQQd1YkifX7Pdk-v1.png" >}}
         <p><span class="fw-bold ">Figure 8:</span> Scopes and case studies in data-driven leadership in supply chains.</p>
-        <p>Scopes and case studies in data-driven leadership in supply chains.</p>
     </div>
 </div>
 

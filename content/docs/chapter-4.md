@@ -3,8 +3,8 @@ weight: 800
 title: "Chapter 4"
 description: "Innovation in Supply Chain Operations"
 icon: "article"
-date: "2024-11-17T17:39:08.713081+07:00"
-lastmod: "2024-11-17T17:39:08.713081+07:00"
+date: "2024-11-21T08:50:00.636175+07:00"
+lastmod: "2024-11-21T08:50:00.636175+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Smart warehousing is transforming supply chain logistics by integrating cutting-
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-BqIoiLKE1mj1JeBhWJzM-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Smart Warehousing Technologies</p>
-        <p>Smart Warehousing Technologies</p>
     </div>
 </div>
 
@@ -42,7 +41,6 @@ From an academic perspective, smart warehousing exemplifies the integration of c
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-5aoW2dt9UMFzuVF61hmk-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Global Trends of Smart Warehousing</p>
-        <p>Global Trends of Smart Warehousing</p>
     </div>
 </div>
 
@@ -91,7 +89,6 @@ From an academic perspective, the integration of AI in procurement highlights th
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-IrPqJYZSXOHyKdUKZ423-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Smart Procurement</p>
-        <p>Smart Procurement</p>
     </div>
 </div>
 
@@ -136,7 +133,6 @@ Intelligent logistics refers to the application of advanced technologies, such a
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-A8E7Iwiw1mez1fR8wWfC-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Application of Intelligent Logistics</p>
-        <p>Application of Intelligent Logistics</p>
     </div>
 </div>
 
@@ -189,7 +185,6 @@ The circular economy represents a transformative approach to resource management
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-NupO9WVkHqbvAebZG9qd-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Transformative Approach to Resource Management</p>
-        <p>Transformative Approach to Resource Management</p>
     </div>
 </div>
 
@@ -250,7 +245,6 @@ From an academic perspective, AI in supply chain resilience represents an evolut
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-nXt26eT9BHRcEcC36lFI-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Transformation of AI Integration in Supply Chain</p>
-        <p>Transformation of AI Integration in Supply Chain</p>
     </div>
 </div>
 

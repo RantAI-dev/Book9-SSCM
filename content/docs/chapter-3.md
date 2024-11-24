@@ -3,8 +3,8 @@ weight: 700
 title: "Chapter 3"
 description: "Data-Driven Supply Chain Optimization"
 icon: "article"
-date: "2024-11-17T17:39:08.685183+07:00"
-lastmod: "2024-11-17T17:39:08.685183+07:00"
+date: "2024-11-21T08:50:00.600065+07:00"
+lastmod: "2024-11-21T08:50:00.600065+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Big data has emerged as a critical enabler in modern supply chain management, pr
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-DS02PSViItcM3oL4qmWJ-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Progression of Demand Forecasting in Big Data</p>
-        <p>Progression of Demand Forecasting in Big Data</p>
     </div>
 </div>
 
@@ -71,7 +70,6 @@ Predictive analytics in supply chain management relies on a range of sophisticat
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-UgsMCYkA6bu8C4m3pDk4-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Predictive Modelling Use Cases</p>
-        <p>Predictive Modelling Use Cases</p>
     </div>
 </div>
 
@@ -107,7 +105,6 @@ Data forms the backbone of predictive analytics in supply chains. Internal data 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-YIknDTZq2rh4HSP8eKlg-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Data Integration Processes for Predictive Analytics</p>
-        <p>Data Integration Processes for Predictive Analytics</p>
     </div>
 </div>
 
@@ -144,7 +141,6 @@ From an academic perspective, the integration of predictive and prescriptive ana
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-44GBarQTUsB7ggOyiY3N-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Prescriptive vs Predictive Analytics</p>
-        <p>Prescriptive vs Predictive Analytics</p>
     </div>
 </div>
 
@@ -197,7 +193,6 @@ In supply chain management, data automation plays a pivotal role in improving re
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-mhRHiPK5CmvgUrvxNib0-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Key Components of Data Automation</p>
-        <p>Key Components of Data Automation</p>
     </div>
 </div>
 

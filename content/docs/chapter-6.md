@@ -3,8 +3,8 @@ weight: 1000
 title: "Chapter 6"
 description: "Strategic Steps for Implementing Smart Supply Chain"
 icon: "article"
-date: "2024-11-17T17:39:08.772466+07:00"
-lastmod: "2024-11-17T17:39:08.772466+07:00"
+date: "2024-11-21T08:50:00.711616+07:00"
+lastmod: "2024-11-21T08:50:00.711616+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Industry 4.0 represents the fourth industrial revolution, a paradigm shift in ma
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-FHIZ1LsqgnTMPfoO0DOM-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Industry 4.0 impacts on manufacturing and smart factories.</p>
-        <p>Industry 4.0 impacts on manufacturing and smart factories.</p>
     </div>
 </div>
 
@@ -83,7 +82,6 @@ In the healthcare industry, an effective supply chain is essential for ensuring 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-zdUQ8ZfsaFMmVGadzxIm-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Ineffective complexities of supply chain management in Healthcare industry.</p>
-        <p>Ineffective complexities of supply chain management in Healthcare industry.</p>
     </div>
 </div>
 
@@ -128,7 +126,6 @@ Omnichannel supply chain strategies have become essential in the retail sector a
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-Q6pNYP0Iy7XFhHG7RukP-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Logical view of Omnichannel’s supply chain strategy and implementation.</p>
-        <p>Logical view of Omnichannel’s supply chain strategy and implementation.</p>
     </div>
 </div>
 
@@ -177,7 +174,6 @@ In today’s increasingly globalized economy, managing logistics and distributio
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-c06bfuD9AzOBXvpLLBh6-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> AI-driven logistics transformation as key part of smart supply chain.</p>
-        <p>AI-driven logistics transformation as key part of smart supply chain.</p>
     </div>
 </div>
 
@@ -226,7 +222,6 @@ The energy and utilities sector is a cornerstone of modern infrastructure, suppl
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-w3HSoRKkcYhVbrTsTXF7-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Optimization in energy supply chain.</p>
-        <p>Optimization in energy supply chain.</p>
     </div>
 </div>
 
