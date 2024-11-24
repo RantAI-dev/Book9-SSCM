@@ -3,8 +3,8 @@ weight: 1300
 title: "Chapter 9"
 description: "The Future of Smart Supply Chains"
 icon: "article"
-date: "2024-11-17T17:39:08.862128+07:00"
-lastmod: "2024-11-17T17:39:08.862128+07:00"
+date: "2024-11-21T08:50:00.816823+07:00"
+lastmod: "2024-11-21T08:50:00.816823+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ The integration of Artificial Intelligence (AI), Blockchain, and Digital Twin te
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-EVIIyYUbRVmhwYlDiTwK-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key technologies to transform supply chains.</p>
-        <p>Key technologies to transform supply chains.</p>
     </div>
 </div>
 
@@ -79,7 +78,6 @@ Autonomous supply chains represent the next frontier in supply chain management,
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-lsv6KjFiqCAY0WecGeoa-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Journey from assisted to autonomous supply chains.</p>
-        <p>Journey from assisted to autonomous supply chains.</p>
     </div>
 </div>
 
@@ -128,7 +126,6 @@ Quantum computing is poised to revolutionize supply chain management by providin
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-WW8Pp1c7ocWoWovp72UL-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Complexities and challenges in supply chain optimization.</p>
-        <p>Complexities and challenges in supply chain optimization.</p>
     </div>
 </div>
 
@@ -148,7 +145,6 @@ Several forward-thinking companies in logistics and manufacturing are exploring 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-g9ivgHVAty12QYrtZRkD-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Capabilities, Potentials, Applications and Collaborations in Quantum Computing for Supply Chain Optimization.</p>
-        <p>Capabilities, Potentials, Applications and Collaborations in Quantum Computing for Supply Chain Optimization.</p>
     </div>
 </div>
 
@@ -185,7 +181,6 @@ In recent years, sustainability and Corporate Social Responsibility (CSR) have e
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-nXx0qmlVByaKgw8p0vPS-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Sustainable Supply Chains Strategies.</p>
-        <p>Sustainable Supply Chains Strategies.</p>
     </div>
 </div>
 
@@ -238,7 +233,6 @@ As global supply chains become more complex and interdependent, emerging technol
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-N6G1Z8fJlIcCuEqRlOXa-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Trends in next generation Supply Chains.</p>
-        <p>Trends in next generation Supply Chains.</p>
     </div>
 </div>
 

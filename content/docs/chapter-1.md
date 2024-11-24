@@ -3,8 +3,8 @@ weight: 500
 title: "Chapter 1"
 description: "Introduction - The Evolution of Supply Chains in the Digital Age"
 icon: "article"
-date: "2024-11-17T17:39:08.564065+07:00"
-lastmod: "2024-11-17T17:39:08.564065+07:00"
+date: "2024-11-21T08:50:00.490434+07:00"
+lastmod: "2024-11-21T08:50:00.490434+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ A Smart Supply Chain represents a profound transformation in supply chain manage
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-YDawFxW7sQXNtPMMGsIV-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key Characteristics of Smart Supply Chain</p>
-        <p>Key Characteristics of Smart Supply Chain</p>
     </div>
 </div>
 
@@ -54,7 +53,6 @@ Maersk, one of the world’s largest shipping companies, has also emerged as a l
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-7MXwBRqIUjcMoeUIuw2d-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Case Study - Digital Transformation</p>
-        <p>Case Study - Digital Transformation</p>
     </div>
 </div>
 
@@ -81,7 +79,6 @@ The evolution of supply chains has followed a transformative path, shifting from
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-VrroEctTK8CMDjhE2Oye-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Historical Evolution of Supply Chains</p>
-        <p>Historical Evolution of Supply Chains</p>
     </div>
 </div>
 
@@ -97,7 +94,6 @@ Modern supply chains are now conceptualized as dynamic, interconnected networks 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-CrJo5BiDQ65wEqecCMop-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Key Components of Modern Supply Chain</p>
-        <p>Key Components of Modern Supply Chain</p>
     </div>
 </div>
 
@@ -138,7 +134,6 @@ The digital transformation of supply chains is driven by a set of powerful busin
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-B8oBpgLK6t55jLc1kC43-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Key Business Drivers for Digital Transformation</p>
-        <p>Key Business Drivers for Digital Transformation</p>
     </div>
 </div>
 
@@ -191,7 +186,6 @@ Modern supply chains operate in a landscape fraught with complexity and volatili
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-pGaoEIZeiodEVJUQJ62f-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Challenges in Modern Supply Chains</p>
-        <p>Challenges in Modern Supply Chains</p>
     </div>
 </div>
 
@@ -256,7 +250,6 @@ Digital supply chains have become a source of competitive advantage across vario
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-D65YSSDTenkTmqo0ZDsC-v1.png" >}}
         <p><span class="fw-bold ">Figure 7:</span> Key Opportunities of Smart Supply Chains</p>
-        <p>Key Opportunities of Smart Supply Chains</p>
     </div>
 </div>
 

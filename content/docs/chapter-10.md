@@ -3,8 +3,8 @@ weight: 1400
 title: "Chapter 10"
 description: "Implementing and Scaling Smart Supply Chains"
 icon: "article"
-date: "2024-11-17T17:39:08.607086+07:00"
-lastmod: "2024-11-17T17:39:08.607086+07:00"
+date: "2024-11-21T08:50:00.518865+07:00"
+lastmod: "2024-11-21T08:50:00.518865+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ The concept of digital maturity is pivotal for organizations aiming to transitio
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-3AMKq2Sf4uAod14P7HFw-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Journey of Smart Supply Chain Maturity Assessment and Transformation.</p>
-        <p>Journey of Smart Supply Chain Maturity Assessment and Transformation.</p>
     </div>
 </div>
 
@@ -71,7 +70,6 @@ A digital transformation roadmap serves as a strategic guide for organizations s
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-Igr8I3MW9PD8SGrXitXq-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Developing Roadmap for Digital Transformation of Smart Supply Chains.</p>
-        <p>Developing Roadmap for Digital Transformation of Smart Supply Chains.</p>
     </div>
 </div>
 
@@ -120,7 +118,6 @@ In today’s interconnected world, the implementation of smart supply chains hin
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-VDRgHfIBfLbbC8O8xahp-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Partnerships and Ecosystems Strategies of Smart Supply Chains.</p>
-        <p>Partnerships and Ecosystems Strategies of Smart Supply Chains.</p>
     </div>
 </div>
 
@@ -214,7 +211,6 @@ Scaling smart supply chain initiatives requires a strategic approach that balanc
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-7vusptRRSMihSv3iem1o-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Key challenges in scaling Smart Supply Chains.</p>
-        <p>Key challenges in scaling Smart Supply Chains.</p>
     </div>
 </div>
 
@@ -238,7 +234,6 @@ Procter & Gamble, a global leader in consumer goods, has implemented agile metho
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/OMtYgaNbvCFuN4gyGYU4-Z2ymGt3iFoAEvW8lYU9O-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Journey of scaling Smart Supply Chains.</p>
-        <p>Journey of scaling Smart Supply Chains.</p>
     </div>
 </div>
 
