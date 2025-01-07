@@ -106,7 +106,7 @@ toc: true
                     <img src="/images/iscea_logo.png" alt="ISCEA Logo" class="collaboration-logo-image">
                     <span class="collaboration-btn-text">ISCEA</span>
                 </a>
-                <a href="https:/inoversi.id/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
+                <a href="https://inoversi.id/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
                     <img src="/images/inoversi-logo.png" alt="Inoversi Logo" class="collaboration-logo-image">
                     <span class="collaboration-btn-text">Inoversi</span>
                 </a>
