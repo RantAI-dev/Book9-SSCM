@@ -25,6 +25,8 @@ toc: true
 - [**Introduction**](/docs/smart-scm/)
 - [**Preface**](/docs/preface/)
 - [**Foreword**](/docs/foreword/)
+- [**Guide for Readers**](/docs/guide-for-readers/)
+
 ---
 
 ### **Chapter Overview**
@@ -45,6 +47,7 @@ toc: true
 ### **Closing**
 
 - [**Closing-Remark**](/docs/closing-remark/)  
+- [**References**](/docs/references/)  
 
 ---
 

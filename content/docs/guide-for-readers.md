@@ -2,7 +2,7 @@
 weight: 450  
 title: "Guide for Readers"  
 description: "A Comprehensive Approach to Smart Supply Chains"  
-icon: "article"  
+icon: "help_outline"  
 date: "2024-11-16T15:02:30.068032+07:00"
 lastmod: "2024-11-16T15:02:30.068032+07:00"
 katex: true

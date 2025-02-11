@@ -97,15 +97,11 @@ toc: true
 <div class="row justify-content-center my-4">
     <div class="col-md-8 col-12">
         <div class="card p-4 text-center collaboration-card">
-            <h4 class="mb-3" style="color: #FF5722;">OUR PARTNERS 🤝</h4>
+            <h4 class="mb-3" style="color: #FF5722;">OUR PARTNER 🤝</h4>
             <p class="card-text text-center">
-                We are honored to collaborate with ISCEA and Inoversi in the creation of this book. This partnership combines academic excellence with industry expertise to provide a resource that is both theoretically robust and practically applicable.
+                We are honored to collaborate with  Inoversi in the creation of this book. This partnership combines academic excellence with industry expertise to provide a resource that is both theoretically robust and practically applicable.
             </p>
             <div class="d-flex justify-content-center mb-3 flex-wrap">
-                <a href="https://isceaindonesia.com/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
-                    <img src="/images/iscea_logo.png" alt="ISCEA Logo" class="collaboration-logo-image">
-                    <span class="collaboration-btn-text">ISCEA</span>
-                </a>
                 <a href="https://inoversi.id/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
                     <img src="/images/inoversi-logo.png" alt="Inoversi Logo" class="collaboration-logo-image">
                     <span class="collaboration-btn-text">Inoversi</span>
@@ -256,7 +252,7 @@ RantAI is a forward-thinking Indonesian tech startup focused on revolutionizing 
 </p>
 
 <p style="text-align: justify;">
-Currently collaborating with institutions like ISCEA and Inoversi, RantAI is positioned at the intersection of technology and business transformation. Inoversi, founded in 2024, is a premier training organization dedicated to fostering innovation in business. It offers a wide range of services, including interactive webinars, high-quality e-books, and e-learning platforms that enhance the learning experience for professionals. With customized training, public workshops, and expert-led consulting services, Inoversi aims to empower businesses with the knowledge and tools needed to thrive in today’s competitive landscape.
+Currently collaborating with institutions like Inoversi, RantAI is positioned at the intersection of technology and business transformation. Inoversi, founded in 2024, is a premier training organization dedicated to fostering innovation in business. It offers a wide range of services, including interactive webinars, high-quality e-books, and e-learning platforms that enhance the learning experience for professionals. With customized training, public workshops, and expert-led consulting services, Inoversi aims to empower businesses with the knowledge and tools needed to thrive in today’s competitive landscape.
 </p>
 
 <p style="text-align: justify;">
